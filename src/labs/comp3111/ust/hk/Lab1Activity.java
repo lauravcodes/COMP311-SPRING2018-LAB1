@@ -12,6 +12,7 @@ public class Lab1Activity {
 			if (i < min) {
 				min = i;
 			}
+			
 			if (i > max) {
 				max = i;
 			}
