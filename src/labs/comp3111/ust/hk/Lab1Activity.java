@@ -15,7 +15,7 @@ public class Lab1Activity {
 			if (i > max) {
 				max = i;
 			}
-			sum = sum + i;
+			sum = sum + 1;
 		}
 		
 		System.out.println(String.format("Sum of the numbers is %d", sum));
